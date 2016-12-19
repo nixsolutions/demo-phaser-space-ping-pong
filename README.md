@@ -1,8 +1,9 @@
 Phaser Demo Game - «Space Ping Pong»
 ====================================================
-
-HTML5 game «Space Ping Pong» developed with popular JS framework Phaser.io. It's a demo game with a goal to show ability of creation multiplayer games on Phaser with physic plugin BOX2D. Application is oriented as for mobile touch devices Aple (iPad, iPhone), as for PC and MAC.
-[Demo](https://nixsolutions.github.io/demo-phaser-space-ping-pong/)
+Description
+--------
+Ping Pong Free is the only ping pong game you will ever require. The game maintains the original excitement of the classic arcade pong and adds modern elements to make it suitable for all skill levels.
+HTML5 game «Space Ping Pong» was developed with popular JS framework Phaser.io. It's a demo game with a goal to show the ability of creation of multiplayer games on Phaser with physic plugin BOX2D. The application is oriented both for mobile touch devices Aple (iPad, iPhone) and for PC and MAC. </br>[Demo](https://nixsolutions.github.io/demo-phaser-space-ping-pong/)
 
 Features
 --------
